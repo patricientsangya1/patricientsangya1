@@ -1,0 +1,12 @@
+
+11111	Patrice	 3	1
+
+12222	Innocen	 4	2
+
+123333	Jimmy	 5	3
+
+124444	Joella	 2	1
+
+112222	Jordan	 1	2
+
+322222	Pablos	 4	3
